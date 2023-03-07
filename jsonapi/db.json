@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "Users": [
+    {
+      "id": 1,
+      "name": "shams shamim",
+      "emai": "shams2@gmail.com",
+      "address": "kotli"
+    },
+    {
+      "id": 2,
+      "name": "Ashan",
+      "emai": "ashn@gmail.com",
+      "address": "bagh"
+    },
+    {
+      "name": "Ashan raja",
+      "email": "Ashanraja86@gmail.com",
+      "address": "Baagh AJ&K",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Ali",
+      "emai": "aAli@gmail.com",
+      "address": "bagh"
+    },
+    {
+      "id": 5,
+      "name": "raja",
+      "emai": "raja@gmail.com",
+      "address": "pindi"
+    }
+  ]
+}
